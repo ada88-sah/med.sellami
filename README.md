@@ -9,11 +9,13 @@ Je travaille sur :
 - Scripts et démos pour la visualisation et la collecte de données
 
 Mon CV (PDF) :
-- [Télécharger mon CV (PDF)]([https://github.com/ada88-sah/med.sellami/blob/main/CV_MS.pdf])
+- [Télécharger mon CV (PDF)](https://github.com/ada88-sah/med.sellami/blob/main/CV_MS.pdf)
 
 Contact :
 - Email : ton.email@example.com
 - Twitter / X : @tonhandle
+
+
 
 
 
